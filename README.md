@@ -23,4 +23,11 @@
 
  Intended to serve as an introduction to CNN's (image classification) and working with Keras.
 
+ 
+ 
+ ## Resources
+
+ Read more about the current state of Computer Vision
+ 
+https://imagevision.ai/blog/trends-in-computer-vision-from-2024-breakthroughs-to-2025-blueprints/
 
