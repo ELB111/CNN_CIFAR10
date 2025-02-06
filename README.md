@@ -27,7 +27,7 @@
  
  ## Resources
 
- Read more about the current state of Computer Vision
+ Read more about CV breakthroughs made in 2024
  
 https://imagevision.ai/blog/trends-in-computer-vision-from-2024-breakthroughs-to-2025-blueprints/
 
